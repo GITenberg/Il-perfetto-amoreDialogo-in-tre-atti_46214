@@ -1,0 +1,28 @@
+_repo: Il-perfetto-amoreDialogo-in-tre-atti_46214
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46214-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bracco, Roberto
+    birthdate: 1861
+    deathdate: 1943
+    gutenberg_agent_id: '37422'
+    url: http://www.gutenberg.org/2009/agents/37422
+    wikipedia: http://it.wikipedia.org/wiki/Roberto_Bracco
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2014-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46214'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian drama'
+- !lcc 'PQ'
+title: 'Il perfetto amore: Dialogo in tre atti'
+url: http://www.gutenberg.org/ebooks/46214
